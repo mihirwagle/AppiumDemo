@@ -11,4 +11,4 @@ To better understand the usage and the scope of **APPIUM** alongside the workflo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XonoQw6HVPA" target="_blank"><img src="http://img.youtube.com/vi/XonoQw6HVPA/0.jpg" alt="APPIUM" width="240" height="180" border="10" /></a>
 
 ##Setup
-In order to get setup and started with **APPIUM**, please refer to [this](https://www.dropbox.com/s/wb4zc0obd23cqcv/appium-for-android.pdf?dl=0) pdf.
+In order to get setup and started with **APPIUM**, please refer to [this](https://github.com/mihirwagle/AppiumDemo/blob/master/appium-for-android.pdf) pdf.
