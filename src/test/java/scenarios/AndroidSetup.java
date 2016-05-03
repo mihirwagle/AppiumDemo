@@ -13,7 +13,7 @@ public class AndroidSetup {
     protected AndroidDriver driver;
 
     protected void prepareAndroidForAppium() throws MalformedURLException {
-        File appDir = new File("/Users/nishant/Development/AppiumDemo/apps");
+        File appDir = new File("/Users/mihirwagle/Documents/AppiumDemos/apps");
         File app = new File(appDir, "Flipkart.3.0.apk");
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("device","Android");

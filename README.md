@@ -23,5 +23,3 @@ This java project has been created using **IntelliJ IDea 13 Community Edition**.
 - **Open the solution**
 - **Rebuild**
 - **Run the test**
-
-For any help write us on *nishant@testvagrant.com*, *sukesh@testvagrant.com*
